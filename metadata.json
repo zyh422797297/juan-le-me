@@ -1,0 +1,8 @@
+{
+  "name": "Juan Le Me",
+  "description": "A workplace venting and community support platform for workers to share their 'Juan' (competition) struggles, find peace, and exchange support through gifts and gestures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
